@@ -1,0 +1,8 @@
+C:\Users\Micho\Desktop\libaraymvp\libaraymvp\bin\Debug\libaraymvp.exe.config
+C:\Users\Micho\Desktop\libaraymvp\libaraymvp\bin\Debug\libaraymvp.exe
+C:\Users\Micho\Desktop\libaraymvp\libaraymvp\bin\Debug\libaraymvp.pdb
+C:\Users\Micho\Desktop\libaraymvp\libaraymvp\obj\Debug\libaraymvp.csprojResolveAssemblyReference.cache
+C:\Users\Micho\Desktop\libaraymvp\libaraymvp\obj\Debug\libaraymvp.Properties.Resources.resources
+C:\Users\Micho\Desktop\libaraymvp\libaraymvp\obj\Debug\libaraymvp.csproj.GenerateResource.Cache
+C:\Users\Micho\Desktop\libaraymvp\libaraymvp\obj\Debug\libaraymvp.exe
+C:\Users\Micho\Desktop\libaraymvp\libaraymvp\obj\Debug\libaraymvp.pdb
