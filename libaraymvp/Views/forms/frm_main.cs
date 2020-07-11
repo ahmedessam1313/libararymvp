@@ -34,5 +34,23 @@ namespace libaraymvp.Views.forms
             frm_bookplace frm = new frm_bookplace();
             frm.ShowDialog();
         }
+
+        private void barButtonItem6_ItemClick(object sender, ItemClickEventArgs e)
+        {
+            frm_writehouse frm = new frm_writehouse();
+            frm.ShowDialog();
+        }
+
+        private void barButtonItem5_ItemClick(object sender, ItemClickEventArgs e)
+        {
+            frm_country frm = new frm_country();
+            frm.ShowDialog();
+        }
+
+        private void barButtonItem3_ItemClick(object sender, ItemClickEventArgs e)
+        {
+            frm_author frm = new frm_author();
+            frm.ShowDialog();
+        }
     }
 }

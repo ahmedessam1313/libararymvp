@@ -52,3 +52,6 @@ C:\Users\Micho\Desktop\libaraymvp\libaraymvp\obj\Debug\libaraymvp.Views.forms.fr
 C:\Users\Micho\Desktop\libaraymvp\libaraymvp\obj\Debug\libaraymvp.exe.licenses
 C:\Users\Micho\Desktop\libaraymvp\libaraymvp\obj\Debug\libaraymvp.Views.forms.frm_bookplace.resources
 C:\Users\Micho\Desktop\libaraymvp\libaraymvp\obj\Debug\libaraymvp.Views.forms.frm_category.resources
+C:\Users\Micho\Desktop\libaraymvp\libaraymvp\obj\Debug\libaraymvp.Views.forms.frm_writehouse.resources
+C:\Users\Micho\Desktop\libaraymvp\libaraymvp\obj\Debug\libaraymvp.Views.forms.frm_author.resources
+C:\Users\Micho\Desktop\libaraymvp\libaraymvp\obj\Debug\libaraymvp.Views.forms.frm_country.resources
