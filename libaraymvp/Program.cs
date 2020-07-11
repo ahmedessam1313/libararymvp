@@ -16,7 +16,7 @@ namespace libaraymvp
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Views.frm_main());
+            Application.Run(new Views.forms.frm_main());
         }
     }
 }
