@@ -63,7 +63,7 @@
             this.groupBox1.Size = new System.Drawing.Size(450, 73);
             this.groupBox1.TabIndex = 3;
             this.groupBox1.TabStop = false;
-            this.groupBox1.Text = "Books Data Category";
+            this.groupBox1.Text = "Country Data";
             // 
             // label2
             // 
